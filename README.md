@@ -1,4 +1,4 @@
-# 💼 LinkedIn-Inspired Professional Networking Platform
+# 💼 ConnectHub – Professional Networking Platform
 
 ## 📌 Project Overview
 
